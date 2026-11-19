@@ -22,7 +22,7 @@ This portfolio provides a single place to learn about me, explore my work, and c
 - **Hosting and deployment:** Netlify
 - **Version control and project documentation:** Git and GitHub
 
-> Update this list if your actual source files use additional technologies or frameworks.
+
 
 ## Screenshots
 
