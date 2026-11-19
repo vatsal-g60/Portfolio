@@ -26,7 +26,6 @@ This portfolio provides a single place to learn about me, explore my work, and c
 
 ## Screenshots
 
-Add at least two screenshots of the *working, deployed website* to a `screenshots/` folder in this repository, using the filenames below.
 
 ### Homepage
 
@@ -36,7 +35,7 @@ Add at least two screenshots of the *working, deployed website* to a `screenshot
 
 ![Portfolio projects section](screenshots/projects.png)
 
-> Replace these image paths if you use different filenames. The images will display on GitHub once they are uploaded to the repository.
+
 
 ## Run Locally
 
@@ -45,30 +44,6 @@ Add at least two screenshots of the *working, deployed website* to a `screenshot
 3. Open `index.html` in a modern web browser.
 4. Alternatively, use the **Live Server** extension in VS Code to preview the website locally.
 
-> If your entry point is not `index.html` or your project has a build step, adjust these instructions to match your code.
-
-## Testing and Validation
-
-The following checks should be completed on the deployed website before final submission:
-
-- [ ] Open the live link on a desktop browser.
-- [ ] Test the portfolio on a phone or in responsive device mode.
-- [ ] Verify section navigation and all external links.
-- [ ] Verify the three main user actions (for example, navigating to projects, viewing skills, and opening a contact link).
-- [ ] Check the browser console for errors and fix any issues found.
-- [ ] Confirm that the deployed version matches the latest source files.
-
-## Improvement Through GitHub
-
-As part of Experiment 13, record one useful change based on feedback and implement it through a separate Git branch and pull request.
-
-**Improvement made:** _Add your actual improvement here after completing it._
-
-**Pull request:** _Add the merged GitHub pull request URL here._
-
-## Known Limitations
-
-_Review your live website and describe any genuine limitations here. If testing reveals no outstanding issues, write: “No known issues identified during the final verification.”_
 
 ## Deployment
 
